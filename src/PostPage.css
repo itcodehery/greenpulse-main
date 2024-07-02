@@ -1,0 +1,81 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    color: black;
+  }
+  
+  .header {
+    background-color: #2e7d32;
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .blog-post {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .post-header {
+    text-align: center;
+  }
+  
+  .post-title {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  .divider {
+    border: 0;
+    height: 2px;
+    background: #2e7d32;
+    margin: 10px 0;
+  }
+  
+  .post-meta {
+    font-size: 14px;
+    color: #757575;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .post-content {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .post-actions {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .upvote-button {
+    background-color: #2e7d32;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .upvote-button:hover {
+    background-color: #1b5e20;
+  }
+  
+  .upvote-button svg {
+    margin-right: 8px;
+  }
