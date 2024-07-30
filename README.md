@@ -1,3 +1,5 @@
+## Won 3rd Place in the BuildWithDelhi Hackathon organized by Hive India
+
 GreenPulse is an innovative decentralized blogging platform dedicated to promoting eco-friendly living, sustainability, and environmental awareness. The project harnesses the power of the Hive blockchain to ensure secure, transparent, and tamper-proof content management, enabling users to share their ideas, tips, and experiences related to green living.
 
 ### Key Features and Technologies:
